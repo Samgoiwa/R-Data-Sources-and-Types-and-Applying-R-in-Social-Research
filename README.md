@@ -4,7 +4,7 @@
 
 This project explores the use of the R programming language for acquiring, managing, analyzing, and visualizing social research data. It begins with an overview of common data sources in social sciences—such as surveys, administrative records, and open data portals—and the data types typically encountered (categorical, continuous, ordinal, date-time).
 
-Using a simulated social survey dataset, the project demonstrates how to:
+Using a social survey dataset, the project demonstrates how to:
 
 * Import and clean data from various formats (CSV, Excel)
 * Perform descriptive statistics and data transformations
